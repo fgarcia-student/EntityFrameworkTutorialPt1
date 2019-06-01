@@ -1,0 +1,14 @@
+/Users/fg/projects/c#/EntityFrameworkExample/bin/Debug/netcoreapp2.2/EntityFrameworkExample.deps.json
+/Users/fg/projects/c#/EntityFrameworkExample/bin/Debug/netcoreapp2.2/EntityFrameworkExample.runtimeconfig.json
+/Users/fg/projects/c#/EntityFrameworkExample/bin/Debug/netcoreapp2.2/EntityFrameworkExample.runtimeconfig.dev.json
+/Users/fg/projects/c#/EntityFrameworkExample/bin/Debug/netcoreapp2.2/EntityFrameworkExample.dll
+/Users/fg/projects/c#/EntityFrameworkExample/bin/Debug/netcoreapp2.2/EntityFrameworkExample.pdb
+/Users/fg/projects/c#/EntityFrameworkExample/obj/Debug/netcoreapp2.2/EntityFrameworkExample.csprojAssemblyReference.cache
+/Users/fg/projects/c#/EntityFrameworkExample/obj/Debug/netcoreapp2.2/EntityFrameworkExample.csproj.CoreCompileInputs.cache
+/Users/fg/projects/c#/EntityFrameworkExample/obj/Debug/netcoreapp2.2/EntityFrameworkExample.RazorAssemblyInfo.cache
+/Users/fg/projects/c#/EntityFrameworkExample/obj/Debug/netcoreapp2.2/EntityFrameworkExample.RazorAssemblyInfo.cs
+/Users/fg/projects/c#/EntityFrameworkExample/obj/Debug/netcoreapp2.2/EntityFrameworkExample.AssemblyInfoInputs.cache
+/Users/fg/projects/c#/EntityFrameworkExample/obj/Debug/netcoreapp2.2/EntityFrameworkExample.AssemblyInfo.cs
+/Users/fg/projects/c#/EntityFrameworkExample/obj/Debug/netcoreapp2.2/EntityFrameworkExample.RazorTargetAssemblyInfo.cache
+/Users/fg/projects/c#/EntityFrameworkExample/obj/Debug/netcoreapp2.2/EntityFrameworkExample.dll
+/Users/fg/projects/c#/EntityFrameworkExample/obj/Debug/netcoreapp2.2/EntityFrameworkExample.pdb
